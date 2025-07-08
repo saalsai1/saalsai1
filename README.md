@@ -25,23 +25,8 @@
 ### 🧰 Development & Infrastructure
 `Git` `GitHub` `Google Cloud` `Linux` `macOS` `MySQL` `Splunk`
 
----
 
-## 📚 Current Projects
 
-- 🔍 **Explainable AI for Threat Detection in Enterprise Networks**
-- 🧅 **Security & Anonymity in the Tor Network**
-- 🧠 **Adaptive Security Awareness Systems Using ML**
 
----
-
-## 🌐 Connect With Me
-
-- 📫 Email: saudalsaif.dev@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/saudalsaif)  
-- 💻 [GitHub](https://github.com/saalsai1)  
-- 🌍 Portfolio: *(add your portfolio link when ready)*
-
----
 
 <p align="center">⚡ “Building secure systems, one line at a time.”</p>
