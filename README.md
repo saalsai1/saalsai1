@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Saud Alsaif 👋</h1>
 
-<!--
-**saalsai1/saalsai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Graduate Student in Software Engineering at <strong>Arizona State University</strong> <br>
+  🔐 B.S.E. in Computer Systems Engineering (Cybersecurity) <br>
+  🌍 Based in Arizona & Saudi Arabia • 📧 saudalsaif.dev@gmail.com
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+## 💻 Tech Stack
+
+### 🛠️ Programming & Scripting
+`Java` `Python` `C++` `C` `Swift` `Shell Script`
+
+### 🔐 Cybersecurity Tools
+`Wireshark` `Metasploit` `Burp Suite` `Kali Linux` `Nessus` `IDA Pro` `Autopsy`
+
+### 🧰 Development & Infrastructure
+`Git` `GitHub` `Google Cloud` `Linux` `macOS` `MySQL` `Splunk`
+
+---
+
+## 📚 Current Projects
+
+- 🔍 **Explainable AI for Threat Detection in Enterprise Networks**
+- 🧅 **Security & Anonymity in the Tor Network**
+- 🧠 **Adaptive Security Awareness Systems Using ML**
+
+---
+
+## 🌐 Connect With Me
+
+- 📫 Email: saudalsaif.dev@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/saudalsaif)  
+- 💻 [GitHub](https://github.com/saalsai1)  
+- 🌍 Portfolio: *(add your portfolio link when ready)*
+
+---
+
+<p align="center">⚡ “Building secure systems, one line at a time.”</p>
