@@ -12,21 +12,3 @@
 
 
 
----
-
-## 💻 Tech Stack
-
-### 🛠️ Programming & Scripting
-`Java` `Python` `C++` `C` `Swift` `Shell Script`
-
-### 🔐 Cybersecurity Tools
-`Wireshark` `Metasploit` `Burp Suite` `Kali Linux` `Nessus` `IDA Pro` `Autopsy`
-
-### 🧰 Development & Infrastructure
-`Git` `GitHub` `Google Cloud` `Linux` `macOS` `MySQL` `Splunk`
-
-
-
-
-
-<p align="center">⚡ “Building secure systems, one line at a time.”</p>
