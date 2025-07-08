@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Graduate Student in Software Engineering at <strong>Arizona State University</strong> <br>
   🔐 B.S.E. in Computer Systems Engineering (Cybersecurity) <br>
-  🌍 Based in Arizona & Saudi Arabia • 📧 saudalsaif.dev@gmail.com
+  🌍 Based in Arizona & Saudi Arabia • 📧 saudcodes@gmail.com
 </p>
 
 ---
