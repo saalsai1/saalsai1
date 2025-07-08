@@ -6,12 +6,6 @@
   🌍 Based in Arizona & Saudi Arabia • 📧 saudcodes@gmail.com
 </p>
 
-<div align="center">
-	<br>
-		<img src="https://good-times.svg" width="400px">
-	<br>
-</div>
-
 
 ---
 
@@ -19,3 +13,8 @@
 
 
 
+<div align="center">
+	<br>
+		<img src="https://good-times.svg" width="400px">
+	<br>
+</div>
