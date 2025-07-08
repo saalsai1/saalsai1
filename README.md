@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Saud Alsaif 👋</h1>
+<h1 align="center">Hi, I'm Saud 👋</h1>
 
 <p align="center">
   🎓 Graduate Student in Software Engineering at <strong>Arizona State University</strong> <br>
