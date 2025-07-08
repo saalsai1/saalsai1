@@ -8,6 +8,7 @@
 
 ---
 
+![Saud's GitHub stats](https://github-readme-stats.vercel.app/api?username=saalsai1&show_icons=true&theme=dark)
 
 
 ---
