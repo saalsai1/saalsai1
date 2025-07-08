@@ -8,9 +8,7 @@
 
 ---
 
-![Saud's GitHub stats](https://github-readme-stats.vercel.app/api?username=saalsai1&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saalsai1&layout=compact&theme=dark)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=saalsai1&theme=github-dark)
 
 
 ---
