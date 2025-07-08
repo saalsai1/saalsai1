@@ -13,8 +13,3 @@
 
 
 
-<div align="center">
-	<br>
-		<img src="https://good-times.svg" width="400px">
-	<br>
-</div>
